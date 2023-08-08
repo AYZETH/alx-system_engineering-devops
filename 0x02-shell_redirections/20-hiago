@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -vwE '[cC]'
+tr -d cC
